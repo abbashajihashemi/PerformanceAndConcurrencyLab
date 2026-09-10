@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{81C02CED-4134-4092-A35C-060BD3ACF5FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{67F710C8-1AEF-4D11-BA43-5FD4D8DD068F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00-Foundation", "00-Foundation", "{3AAF4E85-9765-4B15-9D0E-147CDEFA1EC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Async-Await-Deep-Dive", "src\00-Foundation\01-Async-Await-Deep-Dive\01-Async-Await-Deep-Dive.csproj", "{9FEDFEC6-CD3C-4AFF-94D4-E3AF17AFE7A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Synchronization", "02-Synchronization", "{1B3C3104-C499-4393-8647-62F292AEED2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Shared-State-and-Race-Conditions", "src\02-Synchronization\01-Shared-State-and-Race-Conditions\01-Shared-State-and-Race-Conditions.csproj", "{C3091316-6060-4BC3-ACA4-E7ACF29F2BD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Threading-Basics", "01-Threading-Basics", "{D49D88C1-EBE3-4143-89C3-908BE8C6FB7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-ThreadPool-Internals", "src\01-Threading-Basics\02-ThreadPool-Internals\02-ThreadPool-Internals.csproj", "{994429B4-20DF-4655-AFCF-276D81161665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-Blocking-vs-NonBlocking", "src\01-Threading-Basics\03-Blocking-vs-NonBlocking\03-Blocking-vs-NonBlocking.csproj", "{88E86869-661A-4AEE-BFA0-16BC12321F3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3AAF4E85-9765-4B15-9D0E-147CDEFA1EC8} = {81C02CED-4134-4092-A35C-060BD3ACF5FE}
+		{9FEDFEC6-CD3C-4AFF-94D4-E3AF17AFE7A9} = {3AAF4E85-9765-4B15-9D0E-147CDEFA1EC8}
+		{1B3C3104-C499-4393-8647-62F292AEED2F} = {81C02CED-4134-4092-A35C-060BD3ACF5FE}
+		{C3091316-6060-4BC3-ACA4-E7ACF29F2BD7} = {1B3C3104-C499-4393-8647-62F292AEED2F}
+		{D49D88C1-EBE3-4143-89C3-908BE8C6FB7D} = {81C02CED-4134-4092-A35C-060BD3ACF5FE}
+		{994429B4-20DF-4655-AFCF-276D81161665} = {D49D88C1-EBE3-4143-89C3-908BE8C6FB7D}
+		{88E86869-661A-4AEE-BFA0-16BC12321F3C} = {D49D88C1-EBE3-4143-89C3-908BE8C6FB7D}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FEDFEC6-CD3C-4AFF-94D4-E3AF17AFE7A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FEDFEC6-CD3C-4AFF-94D4-E3AF17AFE7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FEDFEC6-CD3C-4AFF-94D4-E3AF17AFE7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FEDFEC6-CD3C-4AFF-94D4-E3AF17AFE7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3091316-6060-4BC3-ACA4-E7ACF29F2BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3091316-6060-4BC3-ACA4-E7ACF29F2BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3091316-6060-4BC3-ACA4-E7ACF29F2BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3091316-6060-4BC3-ACA4-E7ACF29F2BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{994429B4-20DF-4655-AFCF-276D81161665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994429B4-20DF-4655-AFCF-276D81161665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994429B4-20DF-4655-AFCF-276D81161665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994429B4-20DF-4655-AFCF-276D81161665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E86869-661A-4AEE-BFA0-16BC12321F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E86869-661A-4AEE-BFA0-16BC12321F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E86869-661A-4AEE-BFA0-16BC12321F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E86869-661A-4AEE-BFA0-16BC12321F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

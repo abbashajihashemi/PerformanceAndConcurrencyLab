@@ -1,0 +1,17 @@
+D:\repos\PerformanceLab\src\00-Foundation\01-Async-Await-Deep-Dive\bin\Debug\net8.0\01-Async-Await-Deep-Dive.exe
+D:\repos\PerformanceLab\src\00-Foundation\01-Async-Await-Deep-Dive\bin\Debug\net8.0\01-Async-Await-Deep-Dive.deps.json
+D:\repos\PerformanceLab\src\00-Foundation\01-Async-Await-Deep-Dive\bin\Debug\net8.0\01-Async-Await-Deep-Dive.runtimeconfig.json
+D:\repos\PerformanceLab\src\00-Foundation\01-Async-Await-Deep-Dive\bin\Debug\net8.0\01-Async-Await-Deep-Dive.dll
+D:\repos\PerformanceLab\src\00-Foundation\01-Async-Await-Deep-Dive\bin\Debug\net8.0\01-Async-Await-Deep-Dive.pdb
+D:\repos\PerformanceLab\src\00-Foundation\01-Async-Await-Deep-Dive\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\repos\PerformanceLab\src\00-Foundation\01-Async-Await-Deep-Dive\obj\Debug\net8.0\01-Async-Await-Deep-Dive.csproj.AssemblyReference.cache
+D:\repos\PerformanceLab\src\00-Foundation\01-Async-Await-Deep-Dive\obj\Debug\net8.0\01-Async-Await-Deep-Dive.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\PerformanceLab\src\00-Foundation\01-Async-Await-Deep-Dive\obj\Debug\net8.0\01-Async-Await-Deep-Dive.AssemblyInfoInputs.cache
+D:\repos\PerformanceLab\src\00-Foundation\01-Async-Await-Deep-Dive\obj\Debug\net8.0\01-Async-Await-Deep-Dive.AssemblyInfo.cs
+D:\repos\PerformanceLab\src\00-Foundation\01-Async-Await-Deep-Dive\obj\Debug\net8.0\01-Async-Await-Deep-Dive.csproj.CoreCompileInputs.cache
+D:\repos\PerformanceLab\src\00-Foundation\01-Async-Await-Deep-Dive\obj\Debug\net8.0\01-Async-Await-Deep-Dive.csproj.CopyComplete
+D:\repos\PerformanceLab\src\00-Foundation\01-Async-Await-Deep-Dive\obj\Debug\net8.0\01-Async-Await-Deep-Dive.dll
+D:\repos\PerformanceLab\src\00-Foundation\01-Async-Await-Deep-Dive\obj\Debug\net8.0\refint\01-Async-Await-Deep-Dive.dll
+D:\repos\PerformanceLab\src\00-Foundation\01-Async-Await-Deep-Dive\obj\Debug\net8.0\01-Async-Await-Deep-Dive.pdb
+D:\repos\PerformanceLab\src\00-Foundation\01-Async-Await-Deep-Dive\obj\Debug\net8.0\01-Async-Await-Deep-Dive.genruntimeconfig.cache
+D:\repos\PerformanceLab\src\00-Foundation\01-Async-Await-Deep-Dive\obj\Debug\net8.0\ref\01-Async-Await-Deep-Dive.dll
